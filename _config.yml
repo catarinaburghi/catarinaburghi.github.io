@@ -1,0 +1,21 @@
+remote_theme: nandomoreirame/end2end
+ 
+title: Catarina Fagundes Burghi
+description: "Bitch, I have a website"
+url: http://nandomoreira.me
+baseurl: "/end2end"
+
+social_github: catarinaburghi
+social_instagram: catarina_burghi
+social_twitter: catarina_burghi
+social_snapchat: bass.cat2019
+
+google_analytics: ""
+repo: https://github.com/catarinaburghi
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
