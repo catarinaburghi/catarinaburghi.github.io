@@ -23,7 +23,7 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! If you are reading this you are either one of my friends, someone on the robotics team or a random person. 
   Anyways, welcome. This website has a main purpose for me to learn.
-  I could use this website for many things, like a jornal on how to program (an idea a friend gave me)
+  I could use this website for many things, like a manual on how to program (an idea a friend gave me)
   Or to make games, or just to make a journal (which I'll probably do.)
   Anyways if you are still here, go and have fun! Enjoy my website.
 baseurl: "" # the subpath of your site, e.g. /blog
