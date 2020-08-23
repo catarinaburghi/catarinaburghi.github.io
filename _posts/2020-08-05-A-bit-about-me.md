@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A bit about me
-description: Me, myself, and I
+title: Intruduction
+description: Welcome!
 categories: meta
 date: 2020-08-06 02:00:45 -0400
 ---

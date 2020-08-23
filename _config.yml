@@ -34,8 +34,10 @@ primary_color: green
 description: >-
   Hello! If you are reading this you are either one of my friends, someone on the robotics team or a random person. 
   Anyways, welcome. This website has a main purpose for me to learn.
+
   I could use this website for many things, like a manual on how to program (an idea a friend gave me)
-  Or to make games, or just to make a journal (which I'll probably do.)
+  Or to make games, or just to make a blog (which I'll probably do.)
+  
   Anyways if you are still here, go and have fun! Enjoy my website.
 navbar:
   - name: Blog
