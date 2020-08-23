@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+pretitle: "Hi, I'm"
+title: "Catarina Burghi"
 ---
+
+# A bit about me
+
+(Fill this in)

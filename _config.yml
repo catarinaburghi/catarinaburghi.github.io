@@ -18,35 +18,67 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Catarina Fagundes Burghi
-email: ""
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+
+# minima:
+#   date_format: "%b %-d, %Y"
+
+#   # generate social links in footer
+#   social_links:
+#     twitter: catarina_burghi
+#     github:  catarinaburghi
+#     instagram: catarina_burghi
+#     snapchat: bass.cat2019
+
+
+# Global site configuration
+title: "Catarina Burghi"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://catarinaburghi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /blog/:year/:month/:day/:slug
 show_excerpts: false
 
-minima:
-  date_format: "%b %-d, %Y"
+# Page configuration
+auto_set_title: true
+enable_page_graphics: false
+default_page_graphic: assets/graphics/innovation__monochromatic.svg
+enable_seo: true
+primary_color: green
+description: >-
+  Hello! If you are reading this you are either one of my friends, someone on the robotics team or a random person. 
+  Anyways, welcome. This website has a main purpose for me to learn.
+  I could use this website for many things, like a manual on how to program (an idea a friend gave me)
+  Or to make games, or just to make a journal (which I'll probably do.)
+  Anyways if you are still here, go and have fun! Enjoy my website.
+navbar:
+  - name: Blog
+    url: /blog
+  - name: Contact
+    url: /contact
 
-  # generate social links in footer
-  social_links:
-    twitter: catarina_burghi
-    github:  catarinaburghi
-    instagram: catarina_burghi
-    snapchat: bass.cat2019
+# Analytics
+ga_analytics: ""
+rtl_analytics: "catarinaburghi.github.io"
 
+# Markdown parser config
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  math_engine: mathjax
+highlighter: rouge
 
-# Build settings
-theme: minima
+# Plugin config
+sass:
+    sass_dir: _sass
+
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from # https://github.com/jekyll/jekyll-redirect-from
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
+
+remote_theme: ewpratten/retrylife-jekyll-theme
 
 
 # Exclude from processing.
