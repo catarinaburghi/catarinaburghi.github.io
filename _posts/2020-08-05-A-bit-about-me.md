@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intruduction
+title: Introduction
 description: Welcome!
 categories: meta
 date: 2020-08-06 02:00:45 -0400
