@@ -6,4 +6,4 @@ title: "Catarina Burghi"
 
 # A bit about me
 
-(Fill this in)
+{{site.description}}
