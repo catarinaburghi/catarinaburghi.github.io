@@ -3,7 +3,7 @@ layout: page
 title: My expirience as a first year programmer in a Robotics team
 description: Close encounters with high speed Robots
 categories: meta
-date: 
+date: 2020-08-23 17-19-00 -0400
 ---
 
 I don't know how to do this, and that's where it all started.
