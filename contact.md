@@ -7,9 +7,9 @@ title: Contact me
 
 ## My socials
 
- - [Twitter](catarinaburghi)
- - [Instagram](catarina_burghi)
- - [GitHub](catarinaburghi)
+ - [Twitter](https://twitter.com/catarinaburghi)
+ - [Instagram](https://instagram.com/catarina_burghi)
+ - [GitHub](https://github.com/catarinaburghi)
  - <a data-toggle="modal" data-target="#snapcode" href="">Snapchat</a>
 
 
