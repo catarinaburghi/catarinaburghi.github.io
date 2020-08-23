@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My expirience as a first year programmer in a Robotics team
+title: My experience as a first year programmer in a Robotics team
 description: Close encounters with high speed Robots
 categories: meta
 date: 2020-08-23 17-19-00 -0400
