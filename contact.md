@@ -3,7 +3,7 @@ layout: page
 title: Contact me
 ---
 
-(fill this out)
+Hello, if you would like to contact me click the links bellow!
 
 ## My socials
 
