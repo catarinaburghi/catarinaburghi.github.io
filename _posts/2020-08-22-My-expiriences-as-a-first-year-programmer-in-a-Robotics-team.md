@@ -15,11 +15,9 @@ So my father is also works with programming related things and he told me to at 
 
 So I gave it a shot, and on the first few weeks I felt a little bit left out. I am the only girl in the programming subteam and sometimes I felt like I didn't belong there just because:
 
-1-Most of the time I was just watching the older members do the work
-
-2-Some people told me I should have picked something like build or media (which I wasn't mostly interrested in)
-
-3-Sometimes when I piched in my ideas people wouldn't take me seriously.
+ 1. Most of the time I was just watching the older members do the work
+ 2. Some people told me I should have picked something like build or media (which I wasn't mostly interrested in)
+ 3. Sometimes when I piched in my ideas people wouldn't take me seriously.
 
 But as the season went on I started learning more, and more about programming and about what FRC actually is. And I made some good friends too. 
 
