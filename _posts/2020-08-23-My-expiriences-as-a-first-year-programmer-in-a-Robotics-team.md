@@ -25,7 +25,7 @@ You are probably very curious of what I mean by "Close encounters with high spee
 
 This year's "game" for FRC was [Infinite Recharge](https://www.youtube.com/watch?v=gmiYWTmFRVE).
 
-Our Robot [Death Raider](https://www.thebluealliance.com/team/5024), is a robot that has a few powerful subsystems, like our Intake, Hopper, Shooter, Climber, Drivetrain, and our beloved Vision Target.
+Our Robot [Darth Raider](https://www.thebluealliance.com/team/5024), is a robot that has a few powerful subsystems, like our Intake, Hopper, Shooter, Climber, Drivetrain, and our beloved Vision Target.
 
 On a Friday night me and another one of the programmers were testing our Vision Target, the point of having that vision target is that we can get the robot to line up on a position by it's self to shoot the balls into the goal.
 
