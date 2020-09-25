@@ -9,7 +9,6 @@ date: 2020-09-25 21-19-00 -0400
 Where I live quarentine started on March 13th (which was the start of my march break).
 
 For my march break I went to visit my homecountry of Brazil. I left on the saturday, march 14th and got there on the sunday. 
-
 But the Canadian Prime Minister Justin Trudeau decided to close the borders on the Monday of that week. So I was stuck in Brazil for about a week in a half (10 days), and my family was freaking out over the fact that I was with my father in Brazil. 
 But luckly me and my father managed to come back to Canada a week and a half later.
 
