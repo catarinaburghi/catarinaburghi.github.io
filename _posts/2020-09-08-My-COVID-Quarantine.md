@@ -3,7 +3,7 @@ layout: page
 title: My COVID Quarantine
 description: How I spent my quarentine
 categories: meta
-date: 2020-09- 21-19-00 -0400
+date: 2020-09-25 21-19-00 -0400
 ---
 
 Where I live quarentine started on March 13th (which was the start of my march break).
