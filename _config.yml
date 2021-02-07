@@ -32,7 +32,6 @@ default_page_graphic: assets/graphics/innovation__monochromatic.svg
 enable_seo: true
 primary_color: green
 description: >-
-<img href="/static/img/Screenshot_2021-01-31_154240.png">
 
 navbar:
   - name: Blog
