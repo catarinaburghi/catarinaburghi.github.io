@@ -32,9 +32,9 @@ default_page_graphic: assets/graphics/innovation__monochromatic.svg
 enable_seo: true
 primary_color: green
 description: >-
-Hi! I'm Catarina. I'm a high school student in Ontario that participates in the First Robotics Competitions (with team 5024 Raider Robotics).
-The purpose that I choose for this website is to share my experiences as a programmer in the Robotics competitions
-and to share personal experiences about other things as well. 
+  Hi! I'm Catarina. I'm a high school student in Ontario that participates in the First Robotics Competitions (with team 5024 Raider Robotics).
+  The purpose that I choose for this website is to share my experiences as a programmer in the Robotics competitions
+  and to share personal experiences about other things as well.
 
 navbar:
   - name: Blog
