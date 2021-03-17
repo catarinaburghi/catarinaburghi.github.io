@@ -1,7 +1,6 @@
 ---
 layout: page
-pre title: Projects
-Title: Things I'm either currently working on, planning on working on, and things that I've worked on.
+Title: Projects
 ---
 ## Here is a few projects I'm planning on working on:
 
