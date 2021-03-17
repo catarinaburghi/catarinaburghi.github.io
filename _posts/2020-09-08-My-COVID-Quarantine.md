@@ -12,7 +12,7 @@ For my march break I went to visit my homecountry of Brazil. I left on the satur
 But the Canadian Prime Minister Justin Trudeau decided to close the borders on the Monday of that week. So I was stuck in Brazil for about a week in a half (10 days), and my family was freaking out over the fact that I was with my father in Brazil. 
 But luckly me and my father managed to come back to Canada a week and a half later.
 
-Another thing I did was try to reporgram the robot from last year, I got to the shooter and climber. And also I was working on this website with my friends, which was a super fun experience. 
+Another thing I did was try to reprogram the robot from last year, I got to the shooter and climber. And also I was working on this website with my friends, which was a super fun experience. 
 
 During this time I basically hung out with my friends through discord while we played among us or minecraft. It was very boring for the most part but I had fun having game nights with the Robotics team and my friends. 
 
