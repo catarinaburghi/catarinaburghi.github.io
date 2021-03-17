@@ -39,10 +39,11 @@ description: >-
 navbar:
   - name: Blog
     url: /blog
-  - name: Contact
-    url: /contact
   - name: Projects
     url: /projects  
+  - name: Contact
+    url: /contact
+
 
 # Analytics
 ga_analytics: ""
