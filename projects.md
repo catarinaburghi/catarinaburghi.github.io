@@ -11,7 +11,7 @@ Here is a few projects I'm planning on working on:
 Here are a few projects that I've worked on:
 [FRC5024 Infinite Recharge](https://github.com/frc5024/InfiniteRecharge)
 
-Here are a few projects that I'm currently working on:[STEMathon](https://github.com/catarinaburghi/STEMathon)
+Here are a few projects that I'm currently working on: [STEMathon](https://github.com/catarinaburghi/STEMathon)
 
 I'm currently working on my Computer Science class work. once I finish and organise it, it will be posted [here](https://github.com/catarinaburghi/ICS3U)
 
