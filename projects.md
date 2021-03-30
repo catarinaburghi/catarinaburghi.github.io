@@ -13,6 +13,6 @@ Here are a few projects that I've worked on:
 
 Here are a few projects that I'm currently working on: [STEMathon](https://github.com/catarinaburghi/STEMathon)
 
-I'm currently working on my Computer Science class work. once I finish and organise it, it will be posted [here](https://github.com/catarinaburghi/ICS3U)
+I'm currently working on my Computer Science class work. Once I finish and organise it, it will be posted [here](https://github.com/catarinaburghi/ICS3U)
 
 

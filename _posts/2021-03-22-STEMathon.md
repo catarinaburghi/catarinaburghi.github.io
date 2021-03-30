@@ -3,7 +3,7 @@ layout: page
 title: The Girls and Allies in FIRST STEMathon!
 description: My STEMathon weekend!
 categories: meta
-date: 2020-03-21 22:59:59 -0400
+date: 2021-03-30 22:59:59 -0400
 ---
 
 [The Girls and Allies in FIRST STEMathon](https://www.firstroboticscanada.org/stemathon/register/)
