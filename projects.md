@@ -2,14 +2,13 @@
 layout: page
 Title: Projects!
 ---
-## Projects! 
 
 
-Here is a few projects I'm planning on working on:
+## Here is a few projects I'm planning on working on:
 
 Nothing at the moment. 😔
 
-Here are a few projects that I've worked on:
+## Here are a few projects that I've worked on:
 
 [FRC5024 Infinite Recharge](https://github.com/frc5024/InfiniteRecharge)
 This is the repo for all the programming of the competition ready FRC robot from 2020!
@@ -23,7 +22,7 @@ This is the repo from a game dev competition that me and my friends participated
 [ICS3U](https://github.com/catarinaburghi/ICS3U) 
 This is all the work from my grade 11 computer science course.
 
-Here are a few projects that I'm currently working on:
+## Here are a few projects that I'm currently working on:
 
 Nothing at the moment. 😔
 
