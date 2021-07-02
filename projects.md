@@ -1,9 +1,8 @@
 ---
 layout: page
 Title: Projects!
-description: " "
+description: "Here are the projects!"
 ---
-## Here are the projects!
 
 ## Here is a few projects I'm planning on working on:
 
