@@ -1,8 +1,8 @@
 ---
 layout: page
-Title: Projects!
+title: Projects!
 ---
-## Here are the projects!
+
 
 
 ## Here is a few projects I'm planning on working on:
