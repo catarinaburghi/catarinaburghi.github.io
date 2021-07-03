@@ -1,7 +1,6 @@
 ---
 layout: page
 Title: Projects!
-description: "       "
 ---
 Here are the projects!
 
