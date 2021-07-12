@@ -1,0 +1,12 @@
+.lighter-on-hover {
+  &:hover {
+    color: #555 !important;
+  }
+}
+
+a {
+  text-decoration: none !important;
+  &:hover {
+    color: skyblue !important;
+  }
+}

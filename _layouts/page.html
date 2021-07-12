@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+</head>
+
+<body>
+
+    {% include nav.html %}
+
+    <div class="container" style="min-height: 93vh;">
+
+        <div style="text-align:center;">
+            <h1 style="margin-top:5vh;margin-bottom:5vh;">{{page.title}}</h1>
+            <hr>
+        </div>
+
+        <div class="markdown-body">
+            {{content}}
+        </div>
+    </div>
+
+    {% include footer.html %}
+    {% include foot.html %}
+</body>
+
+</html>
