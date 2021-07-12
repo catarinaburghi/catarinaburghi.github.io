@@ -1,14 +1,44 @@
 ---
+# Here is the front page of the website
+#
+# Since the style of this page differs from everything else on the site,
+# you can edit _layouts/home.html to change the look and feel of this page.
+#
+# Some day in the future, you may wish to add another section below the "Hi, I'm Cat"
+# bit with more info, or some project links or something.
+# Do that here.
+#
+# - Note from Evan
+
+# Page title
 title: Home
+
+# Using the custom "home" layout as described above
 layout: home
 ---
 
-<div id="greeting" class="container" style="text-align:center;margin:auto;margin-top:30vh;max-width:700px;">
-    <h1>Hi, I'm <strong style="color:#17a2b8;">Catarina Burghi</strong></h1>
+{%- comment -%}
+The "greeting" section is a container which has its contents centered in the browser
+
+The following styles are applied:
+- text-align: center
+--- This centers the contents of the container horizontally
+- margin: auto
+--- This centers the contents of the container horizontally as well (a backup)
+- margin-top
+--- This is a way to fake a vertical center. Tweak this as needed
+- max-width
+--- This stops the content from looking weird on a big screen
+{%- endcomment -%}
+<div id="greeting" class="container" style="text-align:center;margin:auto;margin-top:35vh;max-width:700px;">
+
+    <!-- Greeting -->
+    <h1>Hi, I'm <strong style="color:#17a2b8;" id="home-page-name">Catarina Burghi</strong></h1>
 
     <br>
 
-    <a href="/blog"><button class="btn btn-info">Blog</button></a>
-    <a href="/projects"><button class="btn btn-info">Projects</button></a>
-    <a href="/about"><button class="btn btn-info">About</button></a>
+    <!-- Prominent navigation buttons -->
+    <a href="/blog"><button class="btn btn-info hover-shadow">Blog</button></a>
+    <a href="/projects"><button class="btn btn-info hover-shadow">Projects</button></a>
+    <a href="/about"><button class="btn btn-info hover-shadow">About</button></a>
 </div>

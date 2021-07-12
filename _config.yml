@@ -30,6 +30,8 @@ description: >-
   The purpose that I choose for this website is to share my experiences as a programmer in the Robotics competitions
   and to share personal experiences about other things as well.
 
+# All your social media links
+# The icon names come from: https://fontawesome.com/icons
 socials:
   - twitter:
     username: catarinaburghi
