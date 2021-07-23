@@ -13,5 +13,5 @@ The CAD model for the Supra isn't mine I got it from [here](https://www.thingive
 
 I do have more Blender projects that I'm working on like for example a formula 1 car that I'm currently designing.
 
-![ ](..\static\img\suprafinishedproduct.png)
+![ ](/static/img/suprafinishedproduct.png)
 
