@@ -3,11 +3,16 @@ layout: page
 title: Projects!
 ---
 
+## Here are a few projects that I'm currently working on:
 
+Nothing at the moment. 😔
 
 ## Here is a few projects I'm planning on working on:
 
-Nothing at the moment. 😔
+More blender cars! 
+I have a post about my Toyota Supra project you could check out.
+
+I have a couple of files of Formula 1 cars that I'm messing around with.
 
 ## Here are a few projects that I've worked on:
 
@@ -23,9 +28,6 @@ This is the repo from a game dev competition that me and my friends participated
 [ICS3U](https://github.com/catarinaburghi/ICS3U) 
 This is all the work from my grade 11 computer science course.
 
-## Here are a few projects that I'm currently working on:
-
-Nothing at the moment. 😔
 
 
 
