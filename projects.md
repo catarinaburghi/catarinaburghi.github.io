@@ -5,12 +5,11 @@ title: Projects!
 
 ## Here are a few projects that I'm currently working on:
 
-Nothing at the moment. 😔
+[FRC5024 Rapid React](https://github.com/frc5024/RapidReact)
+
+[ICS4U](https://github.com/catarinaburghi/ICS4U) This will be the repo where I put all my work for grade 12 computer science.
 
 ## Here is a few projects I'm planning on working on:
-
-More blender cars! 
-I have a post about my Toyota Supra project you could check out.
 
 I have a couple of files of Formula 1 cars that I'm messing around with.
 
