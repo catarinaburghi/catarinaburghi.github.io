@@ -19,3 +19,4 @@ During this time I basically hung out with my friends through discord while we p
 When things stated to open back up again, I finally decided to go meet up with 2 of my friends at a park (this was mid July). After that it was my birthday in August and we had a few family friends over for a birthday dinner. 
 
 And then we just needed to know when school stated back up again and how it would work, the school board and the province spent the entire month of august disscussing this and only telling us how it would go a week before school started. 
+

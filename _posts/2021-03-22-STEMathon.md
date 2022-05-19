@@ -71,3 +71,4 @@ The next slide showed the beautiful CAD model of the bracelet, I explained what 
 
 Overall I had a great weekend, I made new friends, solved a big and important problem and won a good award for it! I 100% recommend doing the STEMathon next year, I know I definitely will sign up for it!
 
+

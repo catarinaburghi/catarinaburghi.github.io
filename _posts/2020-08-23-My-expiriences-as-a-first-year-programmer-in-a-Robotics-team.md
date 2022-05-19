@@ -30,3 +30,4 @@ Our Robot [Darth Raider](https://www.thebluealliance.com/team/5024), is a robot 
 On a Friday night me and another one of the programmers were testing our Vision Target, the point of having that vision target is that we can get the robot to line up on a position by it's self to shoot the balls into the goal.
 
  We were testing that in our build room. Our build room has very bright lights and instead of the target the vision target tracked one of the lights and came back full speed at me and my friend. He managed to get out of the way but I got lucky enough to get trapped between a desk and a pile of scrap metal (It wasn't a fun night). 
+
