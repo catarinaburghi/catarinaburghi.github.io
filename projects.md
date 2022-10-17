@@ -22,10 +22,10 @@ This is the repo from a 24 hours of STEM competition that I participaded in 2021
 [Deep Breath](https://github.com/Ewpratten/ludum-dare-48/releases/tag/v1.0.0) 
 This is the repo from a game dev competition that me and my friends participated in.
 
-[ICS4U](https://github.com/catarinaburghi/ICS4U) This will be the repo where I put all my work for grade 12 computer science.
+[ICS4U](https://github.com/catarinaburghi/ICS4U) This is all my work from grade 12 computer science.
 
 [ICS3U](https://github.com/catarinaburghi/ICS3U) 
-This is all the work from my grade 11 computer science course.
+This is all the work from grade 11 computer science.
 
 
 
