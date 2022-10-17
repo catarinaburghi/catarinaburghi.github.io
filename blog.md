@@ -4,4 +4,4 @@ title: Blog posts
 description: Things I have written about.
 ---
 
-broken
+{{site.blog}}
